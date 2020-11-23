@@ -5,11 +5,11 @@
 ## Also I graduated from college with a degree in computer networking programming. 
 - 🔭 I'll be glad to get constructive criticism, reviews and tips on optimizing and improving the code!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other backend developer
+- 👯 I’m looking to collaborate with other backend developers
 - 🥅 2020 Goals: Find part-time job and contribute more to Open Source projects
 - ⚡ Fun fact: I like to play guitar, eat something tasty and adventures
 
-### Connect with me:
+### Get in touch with me:
 
 [<img align="left" alt="Mavar3 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Mavar3 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
