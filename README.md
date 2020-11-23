@@ -1,4 +1,4 @@
-### Greetings. My name is Matvey (Mavar). 👋
+### Greetings! My name is Matvey (Mavar). 👋
 
 
 ## I'm a student of Moscow Aviation University.
