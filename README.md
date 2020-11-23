@@ -9,10 +9,6 @@
 - 🥅 2020 Goals: Find part-time job and contribute more to Open Source projects
 - ⚡ Fun fact: I like to play guitar, eat something tasty and adventures
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-Mavar3.vercel.app/api/spotify-playing" alt="Mavar3 Spotify Playing" width="350" />](https://open.spotify.com/user/wxo621lxbv2pp3imegcshq4ni)
-
 ### Connect with me:
 
 [<img align="left" alt="Mavar3 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
