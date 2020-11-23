@@ -15,6 +15,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Mavar3 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Mavar3 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
 [<img align="left" alt="Mavar3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mavar3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -58,6 +59,7 @@
 
 </details>
 
+[telegram]: https://t.me/Simple_Mavar
 [vk]: https://vk.com/mavar3
 [instagram]: https://instagram.com/mavar3
 [linkedin]: https://www.linkedin.com/in/mavar3
