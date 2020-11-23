@@ -42,8 +42,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mavar3/csharpcroc20/pull/1) in [Mavar3/csharpcroc20](https://github.com/Mavar3/csharpcroc20)
-2. 💪 Opened PR [#1](https://github.com/Mavar3/csharpcroc20/pull/1) in [Mavar3/csharpcroc20](https://github.com/Mavar3/csharpcroc20)
 <!--END_SECTION:activity-->
 
 </details>
