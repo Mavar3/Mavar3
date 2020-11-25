@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other backend developers
 - 🥅 2020 Goals: Find part-time job and contribute more to Open Source projects
-- ⚡ Fun fact: I like to play guitar, eat something tasty and adventures
+- ⚡ Fun fact: I like playing guitar, eating something tasty, and adventures
 
 ### Get in touch with me:
 
