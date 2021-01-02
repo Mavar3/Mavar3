@@ -6,7 +6,7 @@
 - 🔭 I'll be glad to get constructive criticism, reviews and tips on optimizing and improving the code!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other backend developers
-- 🥅 2020 Goals: Find part-time job and contribute more to Open Source projects
+- 🥅 2021 Goals: Find a part-time job, get more involved in open source projects, and travel more
 - ⚡ Fun fact: I like playing guitar, eating something tasty, and adventures
 
 ### Get in touch with me:
