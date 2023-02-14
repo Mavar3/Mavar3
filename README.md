@@ -5,7 +5,7 @@
 ## I graduated from Moscow Aviation Institute in designer and technologist of radio electronic means and college with a degree in computer networking programming.
 - 🔭 I'll be glad to get constructive criticism, reviews and tips on optimizing and improving the code!
 - 🏄 I’m currently learning surf 🤣
-- 👯 I’m looking to collaborate with other backend developers
+- 👯 I'm looking forward to collaborating with other backend developers
 - 🥅 2023 Goals: Explore dry-gems, main GOF patterns, eanglish language
 - ⚡ Fun fact: I like playing guitar, eating something tasty, and adventures
 
