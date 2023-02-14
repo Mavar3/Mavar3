@@ -1,20 +1,20 @@
 ### Greetings! My name is Matvey (Mavar). 👋
 
 
-## I'm a student of Moscow Aviation University.
-## Also I graduated from college with a degree in computer networking programming. 
+## I'm a Ruby on Rails developer.
+## I graduated from Moscow Aviation Institute in designer and technologist of radio electronic means and college with a degree in computer networking programming.
 - 🔭 I'll be glad to get constructive criticism, reviews and tips on optimizing and improving the code!
-- 🌱 I’m currently learning everything 🤣
+- 🏄 I’m currently learning surf 🤣
 - 👯 I’m looking to collaborate with other backend developers
-- 🥅 2021 Goals: Find a part-time job, get more involved in open source projects, and travel more
+- 🥅 2023 Goals: Explore dry-gems, main GOF patterns, eanglish language
 - ⚡ Fun fact: I like playing guitar, eating something tasty, and adventures
 
 ### Get in touch with me:
 
-[<img align="left" alt="Mavar3 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Mavar3 | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
-[<img align="left" alt="Mavar3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mavar3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mavar3 | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
+[<img align="left" alt="Mavar3 | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/VK_logo.svg" />][vk]
+[<img align="left" alt="Mavar3 | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="Mavar3 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 
 <br />
 
@@ -30,7 +30,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
