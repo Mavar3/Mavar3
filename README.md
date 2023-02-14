@@ -37,6 +37,14 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=mavar3&show_icons=true&theme=algolia" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavar3&layout=compact&show_icons=true&theme=algolia&hide_title=true" alt="mavar3"/>
+  
+</details>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -48,12 +56,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Mavar3's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mavar3&show_icons=true&hide_border=true" />
-
-</details>
 
 [telegram]: https://t.me/Simple_Mavar
 [vk]: https://vk.com/mavar3
